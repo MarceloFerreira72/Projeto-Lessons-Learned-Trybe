@@ -8,3 +8,8 @@ body {
   border-bottom: 3px solid black;
   width: 100%;
 }
+
+#minha_foto {
+  width: 300px;
+  padding-top: 100px;
+}
