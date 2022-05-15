@@ -13,3 +13,7 @@ body {
   width: 300px;
   padding-top: 100px;
 }
+
+.riscado {
+  text-decoration: line-through;
+}
