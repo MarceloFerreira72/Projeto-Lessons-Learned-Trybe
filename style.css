@@ -7,11 +7,12 @@ body {
   top: 0px;
   border-bottom: 3px solid black;
   width: 100%;
+  background-color: #A9D9C6;
 }
 
 #minha_foto {
   width: 300px;
-  padding-top: 100px;
+  padding-top: 90px;
 }
 
 .riscado {
