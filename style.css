@@ -29,7 +29,7 @@ p {
   padding-right: 350px;
 }
 
-aside {
+.lado-direito {
   float: right;
   width: 300px;
   margin-left: 50px;
